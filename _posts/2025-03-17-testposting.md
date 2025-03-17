@@ -8,10 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [test]
 ---
 
-왜 나는 뜨지 않을까 저기요 해명좀;
-
-여기다가 끼워넣으면 어케되는거지?
-오예
-츄라이츄라이
+{% include_relative loghtml/logtwopeplo.html %} 
 
 
