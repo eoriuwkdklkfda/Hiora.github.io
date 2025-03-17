@@ -8,6 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [test]
 ---
 
-{% include_relative loghtml/logtwopeplo.html %} 
+{% include_relative logtwopeplo.html %}
 
 
